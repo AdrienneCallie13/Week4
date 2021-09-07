@@ -24,7 +24,7 @@ The second component we learned this week is conditionals and loops. First of al
 There are several additional directives, the v-for loop is essentially a for-each loop. I give it a list of objects and give each one a name, so that I can use to show it based on data from an Array.
 
 
-<img width="1300" alt="Screen Shot 2021-09-07 at 11 33 48 pm" src="https://user-images.githubusercontent.com/87454125/132353727-e0ca0f93-6f23-4f19-bb7c-04b5b7c77c20.png"> Conditionals and loop (v-for) output.
+<img width="1000" alt="Screen Shot 2021-09-07 at 11 33 48 pm" src="https://user-images.githubusercontent.com/87454125/132353727-e0ca0f93-6f23-4f19-bb7c-04b5b7c77c20.png"> Conditionals and loop (v-for) output.
 
 V-show works similarly to the v-if directive in that it changes the display of the target element or View, but with one significant distinction. V-if removes the element entirely from the view, whereas v-show maintains the element on the screen but just changes the opacity to 0%, or transparent.
 

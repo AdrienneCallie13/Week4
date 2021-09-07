@@ -2,11 +2,11 @@ Learning reflection:  The goal of this week activities was to be familiarise mys
 
 Next week, I expected:
 
-•	After submitting my assignment 1, I will continue and implement more Vue concept on my proof of concept. Next week I aim to work on "form.vue".
+•	After submitting my assignment 1, I will continue and implement more Vue concept on my proof of concept. Next week I aim to work on "form.vue" (5 hours).
 
-• I will do some research about different types of form. I would like to implement step by step form using Vuejs.  
+• I will do some research about different types of form. I would like to implement step by step form using Vuejs (10 hours).  
 
-• I also do some refinement on my prototypes so I may need to change some concept on my proof-of-concept. 
+• I also do some refinement on my prototypes so I may need to change some concept on my proof-of-concept (10 hours). 
 
 Task 1: 
 
